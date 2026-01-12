@@ -1,1 +1,2 @@
-"# Gym-Tracker" 
+"# Gym-Tracker"
+Frontend MVP for Project Submission
